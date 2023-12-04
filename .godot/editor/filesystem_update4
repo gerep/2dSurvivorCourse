@@ -3,3 +3,7 @@ res://scenes/game_object/experience_vial/experience_vial.tscn
 res://scenes/main/main.tscn
 res://scenes/game_object/player/player.tscn
 res://scenes/game_object/experience_vial/experience_vial.gd
+res://scenes/manager/experience_manager.tscn
+res://scenes/manager/experience_manager.gd
+res://scenes/auto_load/game_events.tscn
+res://scenes/auto_load/game_events.gd
