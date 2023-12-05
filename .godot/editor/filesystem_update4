@@ -1,9 +1,12 @@
-res://resources/tileset.tres
 res://scenes/game_object/experience_vial/experience_vial.tscn
-res://scenes/main/main.tscn
+res://resources/tileset.tres
 res://scenes/game_object/player/player.tscn
-res://scenes/game_object/experience_vial/experience_vial.gd
+res://scenes/main/main.tscn
 res://scenes/manager/experience_manager.tscn
-res://scenes/manager/experience_manager.gd
 res://scenes/auto_load/game_events.tscn
-res://scenes/auto_load/game_events.gd
+res://scenes/component/health_component.tscn
+res://scenes/component/health_component.gd
+res://scenes/game_object/basic_enemy/basic_enemy.tscn
+res://scenes/game_object/basic_enemy/basic_enemy.gd
+res://scenes/component/vial_drop_component.tscn
+res://scenes/component/vial_drop_component.gd

@@ -1,5 +1,7 @@
 extends CharacterBody2D
 
+@onready var health_component: HealthComponent = $HealthComponent
+
 const MAX_SPEED = 40
 
 func _ready():
@@ -21,4 +23,4 @@ func get_direction():
 
 
 func on_area_entered(other_area: Area2D):
-	queue_free()
+	health_component.damage(100)
