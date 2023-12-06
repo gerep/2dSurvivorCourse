@@ -5,7 +5,7 @@ const MAX_RANGE = 150
 @export var sword_ability: PackedScene
 var damage = 5
 
-# Called when the node enters the scene tree for the first time.
+
 func _ready():
 	$Timer.timeout.connect(on_timer_timeout)
 

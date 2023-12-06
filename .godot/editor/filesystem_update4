@@ -3,3 +3,9 @@ res://scenes/main/main.tscn
 res://resources/tileset.tres
 res://scenes/manager/experience_manager.gd
 res://scenes/UI/experience_bar.gd
+res://scenes/game_object/player/player.tscn
+res://scenes/ability/sword_ability_controller/sword_ability_controller.gd
+res://resources/upgrades/ability_upgrade.gd
+res://resources/upgrades/sword_rate.tres
+res://scenes/manager/upgrade_manager.tscn
+res://scenes/manager/upgrade_manager.gd
