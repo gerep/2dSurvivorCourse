@@ -6,3 +6,7 @@ res://scenes/UI/upgrade_screen.gd
 res://scenes/manager/upgrade_manager.tscn
 res://scenes/manager/upgrade_manager.gd
 res://scenes/main/main.tscn
+res://scenes/ability/sword_ability_controller/sword_ability_controller.tscn
+res://scenes/auto_load/game_events.tscn
+res://scenes/auto_load/game_events.gd
+res://scenes/ability/sword_ability_controller/sword_ability_controller.gd
