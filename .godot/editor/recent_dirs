@@ -1,6 +1,6 @@
+res://scenes/UI
 res://scenes/manager
 res://resources/upgrades
-res://scenes/UI
 res://scenes/component
 res://scenes/auto_load
 res://scenes/game_object/experience_vial
