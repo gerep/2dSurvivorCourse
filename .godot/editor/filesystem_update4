@@ -1,9 +1,8 @@
-res://scenes/UI/upgrade_screen.tscn
-res://resources/tileset.tres
 res://scenes/UI/ability_upgrade_card.tscn
+res://resources/tileset.tres
 res://scenes/UI/ability_upgrade_card.gd
+res://scenes/UI/upgrade_screen.tscn
 res://scenes/UI/upgrade_screen.gd
-res://scenes/main/main.tscn
 res://scenes/manager/upgrade_manager.tscn
 res://scenes/manager/upgrade_manager.gd
-res://scenes/manager/experience_manager.gd
+res://scenes/main/main.tscn
