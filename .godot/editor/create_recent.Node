@@ -1,3 +1,5 @@
+Node2D
+Node
 Label
 VBoxContainer
 PanelContainer
@@ -5,7 +7,6 @@ Button
 HBoxContainer
 MarginContainer
 CanvasLayer
-Node
 ProgressBar
 CollisionShape2D
 Area2D
