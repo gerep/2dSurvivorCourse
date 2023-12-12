@@ -40,7 +40,6 @@ func check_deal_damage():
 
 	health_component.damage(1)
 	damage_interval_timer.start()
-	print(health_component.current_health)
 
 
 func update_health_display():
@@ -50,7 +49,6 @@ func update_health_display():
 func on_body_entered(body: Node2D):
 	number_colliding_bodies += 1
 	check_deal_damage()
-	print("number_colliding_bodies ", number_colliding_bodies)
 
 
 func on_body_exited(body: Node2D):
