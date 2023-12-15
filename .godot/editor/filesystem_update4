@@ -1,3 +1,11 @@
 res://scenes/main/main.tscn
 res://resources/tileset.tres
+res://scenes/manager/enemy_manager.tscn
 res://scenes/manager/enemy_manager.gd
+res://scenes/ability/axe_ability_controller/node_axe_ability_controller.tscn
+res://scenes/ability/axe_ability_controller/axe_ability_controller.tscn
+res://scenes/ability/axe_ability_controller/axe_ability_controller.gd
+res://scenes/ability/axe_ability/axe_ability.tscn
+res://scenes/game_object/player/player.tscn
+res://scenes/game_object/player/player.gd
+res://scenes/ability/axe_ability/axe_ability.gd

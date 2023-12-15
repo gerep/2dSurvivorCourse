@@ -16,6 +16,7 @@ func _ready():
 	health_component.health_changed.connect(on_health_changed)
 	update_health_display()
 
+
 func _process(delta):
 	var movement_vector = get_movement_vector()
 	var direction = movement_vector.normalized()
@@ -24,6 +25,7 @@ func _process(delta):
 	velocity = velocity.lerp(target_velocity, 1 - exp(-delta * ACCELERATION_SMOOTHING))
 
 	move_and_slide()
+
 
 func get_movement_vector():
 	var movement_vector = Vector2.ZERO

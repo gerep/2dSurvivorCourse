@@ -28,6 +28,7 @@ func get_spawn_position():
 
 		var query_paremeters = PhysicsRayQueryParameters2D.create(player.global_position, spawn_position, 1)
 		var result = get_tree().root.world_2d.direct_space_state.intersect_ray(query_paremeters)
+
 		if result.is_empty():
 			break
 		else:
